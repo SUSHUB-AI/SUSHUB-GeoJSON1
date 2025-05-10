@@ -1,0 +1,43 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ward 1",
+        "risk": 2
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [85.319, 27.712],
+            [85.321, 27.712],
+            [85.321, 27.714],
+            [85.319, 27.714],
+            [85.319, 27.712]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ward 2",
+        "risk": 4
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [85.322, 27.712],
+            [85.324, 27.712],
+            [85.324, 27.714],
+            [85.322, 27.714],
+            [85.322, 27.712]
+          ]
+        ]
+      }
+    }
+  ]
+}
